@@ -1,0 +1,3 @@
+Create and activate a virtual environment to manage project dependencies.
+Install the required libraries (opencv-python, cvzone, mouse, pyautogui, numpy) using pip.
+Verify the installation by running a test script.
