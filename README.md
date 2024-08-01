@@ -26,7 +26,7 @@ Windows:
 Mac/Linux:
 source venv/bin/activate
 
-4. Installing Libraries
+4. Installing Libraries:
 Once the virtual environment is activated, you can install the required libraries using pip.
 
 Install OpenCV:
