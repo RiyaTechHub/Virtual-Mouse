@@ -10,6 +10,41 @@ Features:
 - **Mouse Scroll**: 
   - Scroll up using index, middle, and thumb fingers.
   - Scroll down using index, middle, thumb, and ring fingers.
+ 
+Requirements:
+
+
+1. Setting Up a Virtual Environment
+Creating a virtual environment helps isolate your project and manage dependencies. Here's how to create and activate a virtual environment:
+
+2.Create a virtual environment:
+python -m venv venv
+
+3.Activate the virtual environment:
+Windows:
+.\venv\Scripts\activate
+Mac/Linux:
+source venv/bin/activate
+
+4. Installing Libraries
+Once the virtual environment is activated, you can install the required libraries using pip.
+
+Install OpenCV:
+pip install opencv-python
+
+Install CVZone:
+pip install cvzone
+
+Install Mouse:
+pip install mouse
+
+Install PyAutoGUI:
+pip install pyautogui
+
+Install NumPy (if not already installed):
+pip install numpy
+
+Applications:
 
 The Virtual Mouse Using Hand Gestures project has several practical applications in the current scenario, especially given the increasing demand for touchless interfaces and innovative ways to interact with technology.
 
