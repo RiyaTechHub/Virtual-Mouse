@@ -1,3 +1,34 @@
 Create and activate a virtual environment to manage project dependencies.
 Install the required libraries (opencv-python, cvzone, mouse, pyautogui, numpy) using pip.
 Verify the installation by running a test script.
+
+
+1. Setting Up a Virtual Environment
+Creating a virtual environment helps isolate your project and manage dependencies. Here's how to create and activate a virtual environment:
+
+2.Create a virtual environment:
+python -m venv venv
+
+3.Activate the virtual environment:
+Windows:
+.\venv\Scripts\activate
+Mac/Linux:
+source venv/bin/activate
+
+4. Installing Libraries
+Once the virtual environment is activated, you can install the required libraries using pip.
+
+Install OpenCV:
+pip install opencv-python
+
+Install CVZone:
+pip install cvzone
+
+Install Mouse:
+pip install mouse
+
+Install PyAutoGUI:
+pip install pyautogui
+
+Install NumPy (if not already installed):
+pip install numpy
